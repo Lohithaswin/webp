@@ -1,6 +1,5 @@
-
 body {
-    background-image: src='modern-white-background-free-vector.jpg';
+    background-image: url('modern-white-background-free-vector.jpg');
 }
 
 input, textarea {
@@ -14,4 +13,3 @@ h2 {
 h4 {
     color: #009933;
 }
-
